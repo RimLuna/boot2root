@@ -107,8 +107,7 @@ char getme11() { return 'g'; }
 char getme12() { return 'e'; } 
 ```
 there's only theeeese, then random returns, so I wanna use a script to print all possible strings that can be made from the chars **hpeaIrtwnage**
-```
-treid to generate distinct combinations from a list of those characters, stupid idea
+tried to generate distinct combinations from a list of those characters, stupid idea
 
 The password ends with **wnage**, then we're left with **hearptI**, so after stupid tries, it's **Iheartpwnage**, its SHA-256
 
